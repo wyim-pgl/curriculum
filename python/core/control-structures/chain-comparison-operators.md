@@ -10,7 +10,8 @@ levels:
 type: normal
 
 category: tip
-
+aspects:
+  - introduction
 standards:
   python.native-types-operations.0: 10
 
@@ -74,8 +75,8 @@ a = 9
 ???
 ```
 
-*`False`
-*`True`
+* `False`
+* `True`
 
 ---
 ## Quiz
